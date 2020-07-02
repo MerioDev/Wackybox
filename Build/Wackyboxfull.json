@@ -1,0 +1,16 @@
+{
+"companyName": "Chris Co",
+"productName": "Wackybox",
+"productVersion": "1",
+"dataUrl": "Wackyboxfull.data.unityweb",
+"wasmCodeUrl": "Wackyboxfull.wasm.code.unityweb",
+"wasmFrameworkUrl": "Wackyboxfull.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
